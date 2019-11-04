@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "18b510f7-684a-429f-a5bc-b66513618682",
+  "atlasJson": "{\"imagePath\":\"ui_jinggao_tex.png\",\"width\":1024,\"SubTexture\":[{\"width\":850,\"y\":1,\"height\":77,\"name\":\"补间 4\",\"x\":1},{\"width\":233,\"y\":80,\"height\":93,\"name\":\"补间 1\",\"x\":1},{\"width\":93,\"y\":1,\"height\":79,\"name\":\"补间 2\",\"x\":853},{\"width\":206,\"y\":175,\"height\":71,\"name\":\"补间 3\",\"x\":1}],\"height\":256,\"name\":\"ui_jinggao\"}",
+  "texture": "8759d24c-fed4-4b26-b872-ea9badedb056",
+  "subMetas": {}
+}

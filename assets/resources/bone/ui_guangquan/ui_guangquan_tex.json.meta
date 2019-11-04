@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "adf4888d-22f3-4196-8067-61b5241dd0ea",
+  "atlasJson": "{\"width\":512,\"imagePath\":\"ui_guangquan_tex.png\",\"height\":512,\"name\":\"ui_guangquan\",\"SubTexture\":[{\"width\":256,\"y\":1,\"height\":256,\"name\":\"383307944020102440\",\"x\":1}]}",
+  "texture": "1ac8df0e-e627-475c-b4cf-23c142997b0d",
+  "subMetas": {}
+}

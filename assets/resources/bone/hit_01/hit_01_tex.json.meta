@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "e9a3b7cd-3b85-4c86-8da2-c4aa420ebb03",
+  "atlasJson": "{\"width\":256,\"imagePath\":\"hit_01_tex.png\",\"height\":512,\"name\":\"hit_01\",\"SubTexture\":[{\"y\":102,\"frameX\":0,\"frameHeight\":109,\"frameY\":0,\"width\":144,\"frameWidth\":165,\"height\":108,\"name\":\"补间 2\",\"x\":1},{\"y\":1,\"frameX\":-6,\"frameHeight\":109,\"frameY\":-7,\"width\":159,\"frameWidth\":165,\"height\":99,\"name\":\"补间 1\",\"x\":1},{\"y\":212,\"frameX\":-29,\"frameHeight\":109,\"frameY\":-59,\"width\":87,\"frameWidth\":165,\"height\":17,\"name\":\"补间 4\",\"x\":135},{\"y\":212,\"frameX\":-10,\"frameHeight\":109,\"frameY\":-8,\"width\":132,\"frameWidth\":165,\"height\":101,\"name\":\"补间 3\",\"x\":1}]}",
+  "texture": "69d5dfa8-b75c-44d8-8fcd-5a31ef0cdc47",
+  "subMetas": {}
+}

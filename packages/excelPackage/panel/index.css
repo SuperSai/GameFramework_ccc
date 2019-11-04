@@ -1,0 +1,30 @@
+:host {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 20px;
+}
+
+header {
+    height: 30px;
+}
+
+section {
+    margin: 15px 0;
+    display: flex;
+    flex: 1;
+}
+
+section table {
+    width: 100%;
+    text-align: center;
+}
+
+section ui-box-container {
+    flex: 1;
+}
+
+footer {
+    height: 30px;
+    text-align: right;
+}

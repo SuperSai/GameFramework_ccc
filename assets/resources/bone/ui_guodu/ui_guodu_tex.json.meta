@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "1cfa61af-ae1f-41ec-b78e-f32a2ea719ac",
+  "atlasJson": "{\"width\":256,\"imagePath\":\"ui_guodu_tex.png\",\"name\":\"ui_guodu\",\"SubTexture\":[{\"y\":1,\"frameWidth\":140,\"x\":1,\"frameHeight\":282,\"width\":137,\"frameY\":0,\"height\":279,\"name\":\"撒大声地\",\"frameX\":0}],\"height\":512}",
+  "texture": "9fc6f13b-9513-437b-b47d-f8dcb40f292a",
+  "subMetas": {}
+}

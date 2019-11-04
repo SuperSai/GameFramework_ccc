@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "f4bd7d0b-1e08-44ea-a39f-9cc086240d98",
+  "atlasJson": "{\"width\":256,\"SubTexture\":[{\"y\":121,\"frameWidth\":64,\"x\":156,\"frameHeight\":64,\"width\":53,\"frameY\":-5,\"height\":53,\"name\":\"305-红色\",\"frameX\":-6},{\"y\":1,\"frameWidth\":167,\"x\":1,\"frameHeight\":327,\"width\":153,\"frameY\":-67,\"height\":255,\"name\":\"重复项目文件夹/补间 3\",\"frameX\":-6},{\"y\":176,\"frameWidth\":44,\"x\":156,\"frameHeight\":44,\"width\":34,\"frameY\":-3,\"height\":34,\"name\":\"元件 2\",\"frameX\":-3},{\"y\":258,\"frameWidth\":128,\"x\":1,\"frameHeight\":128,\"width\":116,\"frameY\":-7,\"height\":115,\"name\":\"圈-红色a\",\"frameX\":-6},{\"y\":258,\"frameWidth\":75,\"x\":119,\"frameHeight\":128,\"width\":75,\"frameY\":0,\"height\":121,\"name\":\"放射光-02\",\"frameX\":0},{\"y\":381,\"frameWidth\":75,\"x\":78,\"frameHeight\":128,\"width\":75,\"frameY\":0,\"height\":118,\"name\":\"放射光-04\",\"frameX\":0},{\"y\":381,\"frameWidth\":75,\"x\":155,\"frameHeight\":128,\"width\":75,\"frameY\":0,\"height\":118,\"name\":\"放射光-01\",\"frameX\":0},{\"y\":1,\"frameWidth\":75,\"x\":156,\"frameHeight\":128,\"width\":75,\"frameY\":0,\"height\":118,\"name\":\"放射光-05\",\"frameX\":0},{\"y\":375,\"frameWidth\":75,\"x\":1,\"frameHeight\":128,\"width\":75,\"frameY\":0,\"height\":120,\"name\":\"放射光-03\",\"frameX\":0}],\"height\":512,\"name\":\"ui_born\",\"imagePath\":\"ui_born_tex.png\"}",
+  "texture": "b01b96be-b561-4c96-b7bf-1b96c2d2bfb5",
+  "subMetas": {}
+}

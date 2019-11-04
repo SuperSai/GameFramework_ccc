@@ -1,0 +1,26 @@
+<header>
+    <ui-prop name="文件">
+        <ui-input v-value="file"></ui-input>
+        <ui-button v-on:click="_import">导入</ui-button>
+        <ui-button v-on:click="_refresh">刷新</ui-button>
+    </ui-prop>
+</header>
+
+<section>
+    <ui-box-container>
+        <table>
+            <tr>
+                <td v-for="item in table.head">{{item}}</td>
+            </tr>
+            <tr v-for="tr in table.body">
+                <td v-for="td in tr">
+                    <ui-input v-value="td"></ui-input>
+                </td>
+            </tr>
+        </table>
+    </ui-box-container>
+</section>
+
+<footer>
+    <ui-button v-on:click="_save">导出json</ui-button>
+</footer>

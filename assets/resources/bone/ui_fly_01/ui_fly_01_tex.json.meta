@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "fcf496ad-39e0-43c3-bfdc-d471ae50e128",
+  "atlasJson": "{\"width\":256,\"SubTexture\":[{\"y\":1,\"frameWidth\":256,\"x\":156,\"frameHeight\":256,\"width\":55,\"frameY\":-15,\"height\":223,\"name\":\"元件 15\",\"frameX\":-99},{\"y\":1,\"frameWidth\":166,\"x\":1,\"frameHeight\":163,\"width\":153,\"frameY\":-3,\"height\":151,\"name\":\"元件 9\",\"frameX\":-3}],\"height\":256,\"name\":\"ui_fly_01\",\"imagePath\":\"ui_fly_01_tex.png\"}",
+  "texture": "3cb9afd3-48bc-497e-8c41-1b86977ecd64",
+  "subMetas": {}
+}

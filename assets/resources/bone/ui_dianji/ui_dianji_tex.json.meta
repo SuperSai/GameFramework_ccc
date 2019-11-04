@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "7ab53045-135e-4931-9a63-f09fa8e8aae3",
+  "atlasJson": "{\"width\":512,\"SubTexture\":[{\"y\":1,\"frameWidth\":166,\"x\":231,\"frameHeight\":163,\"width\":153,\"frameY\":-3,\"height\":151,\"name\":\"元件 9\",\"frameX\":-3},{\"y\":1,\"frameWidth\":256,\"x\":1,\"frameHeight\":256,\"width\":228,\"frameY\":-14,\"height\":228,\"name\":\"gfx_110-1.png\",\"frameX\":-14},{\"y\":154,\"frameWidth\":90,\"x\":231,\"frameHeight\":90,\"width\":80,\"frameY\":-5,\"height\":80,\"name\":\"元件 12\",\"frameX\":-5}],\"height\":256,\"name\":\"ui_dianji\",\"imagePath\":\"ui_dianji_tex.png\"}",
+  "texture": "8fffd06f-a120-4380-8f41-dae3d83a351d",
+  "subMetas": {}
+}

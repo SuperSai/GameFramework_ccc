@@ -1,0 +1,22 @@
+{
+  "name": "excel",
+  "version": "0.0.1",
+  "description": "excel to json",
+  "author": "weiqiang.huang",
+  "main": "main.js",
+  "main-menu": {
+    "David/excelTojson": {
+      "message": "excel:open"
+    }
+  },
+  "panel": {
+    "main": "panel/index.js",
+    "type": "dockable",
+    "title": "excelPackage",
+    "width": 400,
+    "height": 300
+  },
+  "dependencies": {
+    "node-xlsx": "^0.15.0"
+  }
+}

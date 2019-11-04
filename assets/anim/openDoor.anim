@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "openDoor",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.8333333333333334,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "door_left": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -62.67399978637695
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": -177.75900268554688
+            }
+          ]
+        }
+      },
+      "door_right": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 68.8239974975586
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 188.6540069580078
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}
